@@ -1,0 +1,2 @@
+package com.globaltrade.scm.enums;
+public enum AlertType { LOW_STOCK, SHIPMENT_DELAY, CUSTOMS_DEADLINE, CUSTOMS_REJECTION, VENDOR_PERFORMANCE, ROUTE_RISK, SYSTEM }

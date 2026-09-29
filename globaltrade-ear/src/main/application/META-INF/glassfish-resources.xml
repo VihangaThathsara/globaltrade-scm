@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN" "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
+<resources>
+    <jdbc-connection-pool name="GlobalTradePool"
+                          res-type="javax.sql.DataSource"
+                          datasource-classname="com.mysql.cj.jdbc.MysqlDataSource"
+                          steady-pool-size="2"
+                          max-pool-size="32"
+                          is-isolation-level-guaranteed="true">
+        <property name="url" value="jdbc:mysql://localhost:3306/globaltrade_scm?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=Asia/Colombo"/>
+        <property name="user" value="root"/>
+        <property name="password" value=""/>
+    </jdbc-connection-pool>
+    <jdbc-resource pool-name="GlobalTradePool" jndi-name="java:app/jdbc/GlobalTradeDS"/>
+</resources>
