@@ -137,8 +137,20 @@ The JUnit 5 suite covers selected business policies, password hashing, exception
 - [Deployment Guide](docs/DEPLOYMENT_GUIDE.md) — database configuration, build and server deployment.
 - [Testing and Validation](docs/TESTING_AND_VALIDATION.md) — unit tests, optional integration tests and workflow checks.
 
-## 👤 Maintainer
+## 👨‍💻 Developer
 
-**Vihanga Thathsara** · Software Engineering Undergraduate
+<div align="center">
 
-[GitHub](https://github.com/VihangaThathsara) · [LinkedIn](https://www.linkedin.com/in/vihanga-thathsara-00187543b/)
+<h3>Vihanga Thathsara</h3>
+
+<a href="https://github.com/VihangaThathsara">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark"
+       width="48" height="48" alt="GitHub" title="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+       width="48" height="48" alt="LinkedIn" title="LinkedIn"/>
+</a>
+
+</div>
