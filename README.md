@@ -139,8 +139,6 @@ The JUnit 5 suite covers selected business policies, password hashing, exception
 
 ## 👨‍💻 Developer
 
-<div align="center">
-
 <h3>Vihanga Thathsara</h3>
 
 <a href="https://github.com/VihangaThathsara">
